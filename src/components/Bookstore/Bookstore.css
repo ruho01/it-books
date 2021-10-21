@@ -1,0 +1,12 @@
+.selected {
+    background-color: #0d6efd;
+    color: #ffffff;
+}
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+}
